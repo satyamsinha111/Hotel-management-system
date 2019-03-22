@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<totalCheckins>
+  <Checkin>
+    <Id>0</Id>
+    <Name>jfgfgnmfgm</Name>
+    <Mobile>sbdvndsn</Mobile>
+    <InTime>16:43 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+  <Checkin>
+    <Id>1</Id>
+    <Name>jfgfgnmfgm</Name>
+    <Mobile>sbdvndsn</Mobile>
+    <InTime>16:43 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+  <Checkin>
+    <Id>2</Id>
+    <Name>Satyam</Name>
+    <Mobile>81589145106</Mobile>
+    <InTime>18:10 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+  <Checkin>
+    <Id>3</Id>
+    <Name>Shabana</Name>
+    <Mobile>815891451</Mobile>
+    <InTime>18:11 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+  <Checkin>
+    <Id>4</Id>
+    <Name>sdsasa</Name>
+    <Mobile>sddds</Mobile>
+    <InTime>18:15 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+  <Checkin>
+    <Id>5</Id>
+    <Name>sdsasa</Name>
+    <Mobile>sddds</Mobile>
+    <InTime>18:15 PM</InTime>
+    <OutTime>Not yet</OutTime>
+  </Checkin>
+</totalCheckins>
